@@ -9,9 +9,9 @@ var TestData = {
   "LoopByDefault": false,
   "ShowFileIDs": false,
   "EnableABLoop": true,
-  "EnableOnlineSubmission": false,
-  "SubmitResultsURL": "",
-  "SupervisorContact": "",
+  "EnableOnlineSubmission": true,
+  "SubmitResultsURL": "http://localhost:4567/submit",
+  "SupervisorContact": "jfsantos@emt.inrs.ca",
   "Testsets": [
     //    
     {
